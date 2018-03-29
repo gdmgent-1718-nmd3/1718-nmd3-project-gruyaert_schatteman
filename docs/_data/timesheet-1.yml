@@ -1,5 +1,5 @@
 # ╔═══════════╗
-# ║ Student 1 ║
+# ║ Student  ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
@@ -12,8 +12,8 @@
   time: 0.75
   task: Lorem ipsum sit dolor amet.
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 3
+  task: paper prototype smartwatch
 -
   time: 1.25
   task: Lorem ipsum sit dolor amet.

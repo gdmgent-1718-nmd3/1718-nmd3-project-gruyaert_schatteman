@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+## Feedback eerste paperprototype:
+Op ware grootte, extra/duidelijkere uitleg over hoe de app werkt
+Betere vormgeving

@@ -7,7 +7,7 @@ published: true
 title: Concept
 ---
 
-## 1. QR-Code scannen + Beacons voor smartwatch
+## 1. Beacons voor smartwatch
 Aan enkele objecten kan je door middel van het scannen van de QR-code meer informatie verkrijgen. Voor de smartwatch worden er ook op bepaalde plaatsen beacons gebruikt, zo hoef je niet te scannen.
  Dit kan door een filmpje of tekst. Hierdoor verdwijnen de informatiebordjes met veel tekst en wordt enkel de naam van het object weergegeven.
 

@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Jaimy Schatteman, 2CMO-GD
+ - Ine Gruyaert, 2CMO-GD
