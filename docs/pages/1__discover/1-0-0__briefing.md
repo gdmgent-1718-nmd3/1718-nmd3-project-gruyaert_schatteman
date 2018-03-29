@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Jaimy Schatteman
+ - Ine Gruyaert
 
-Gekozen Museum
+Gekozen Museum: Miat
 --------------

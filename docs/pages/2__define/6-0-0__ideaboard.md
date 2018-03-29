@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Ideaboard
 ---
+
+![alt text](../../images/ideabord.png "Ideabord"){:.img-fluid}
