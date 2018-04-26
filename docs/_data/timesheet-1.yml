@@ -2,7 +2,7 @@
 # ║ Student  ║
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
--
+
   time: 0.25
   task: Lorem ipsum sit dolor amet.
 -
@@ -10,16 +10,16 @@
   task: Lorem ipsum sit dolor amet.
 -
   time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  task: maken van paper prototype
 -
-  time: 3
-  task: paper prototype smartwatch
+  time: 1
+  task: maken van paper prototype op ware grootte
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 4
+  task: werken aan smartphone app. (research)
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: werken aan wireframe + visual design smartphone app
 -
   time: 1.75
   task: Lorem ipsum sit dolor amet.
