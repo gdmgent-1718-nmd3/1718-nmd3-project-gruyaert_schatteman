@@ -18,3 +18,5 @@ Teamleden
 
 Gekozen Museum: Miat
 --------------
+![](../../images/miat.png){:.img-fluid}
+

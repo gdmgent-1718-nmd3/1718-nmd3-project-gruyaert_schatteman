@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+![](../../../images/smartwatch_screendesigns.PNG){:.img-fluid}

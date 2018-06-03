@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+// Font, line-height, and color for body text, headings, and more.
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800,900i');
+
+$font-family-base: 'Raleway', sans-serif;
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.hex_code {
+    color: white;
+    font-weight: bold;
+}
+
+//
+// Color system
+//
+$primair-kleur:   #004355;
+$primair-kleur:   $primair-kleur;
+
+// bootstrap
+//
+.btn-primary {
+    background-color: #B93F1D;
+    color: white;
+    border-color: #B93F1D;
+}
+
+.btn-primary:hover {
+    background-color: #004355;
+    color: white;
+    border-color: #004355;
+}
+
+.btn-secondary {
+    background-color: #004355;
+    color: white;
+    border-color: #004355;
+}
+
+.btn-secondary:hover {
+    background-color: #B93F1D;
+    color: white;
+    border: 2px solid #004355;
+}
+
+.form {
+    background-color: #B93F1D;
+}
+
+.question {
+    color: white;
+    font-weight: bold;
+}
+
+input {
+    border:none;
+    border-radius:none;
+}
+
+.primary-color {
+    background-color: #004355;
+}
+
+.secondary-color {
+    background-color: #B93F1D;
+}

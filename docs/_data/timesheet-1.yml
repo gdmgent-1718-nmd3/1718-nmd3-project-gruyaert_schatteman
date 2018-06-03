@@ -1,28 +1,28 @@
-# ╔═══════════╗
-# ║ Student  ║
-# ╚═══════════╝
+# ╔══════════════╗
+# ║ Ine Gruyaert ║
+# ╚══════════════╝
 # Tijd in kwartieren (0.25 uur)
-
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 4.5
+  task: museumbezoek
 -
-  time: 0.75
-  task: maken van paper prototype
+  time: 5
+  task: technische analyse
 -
   time: 1
-  task: maken van paper prototype op ware grootte
+  task: journey maps
 -
-  time: 4
-  task: werken aan smartphone app. (research)
+  time: 24
+  task: smartwatch app 
+-
+  time: 1.25
+  task: iconen website
+-
+  time: 12
+  task: website
 -
   time: 1.5
-  task: werken aan wireframe + visual design smartphone app
+  task: aanpassen visuals smartphone 
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 52.25
+  task: werken in visual studio code

@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Website
 ---
+Doel: ontwerpen van een website die de app promoot.

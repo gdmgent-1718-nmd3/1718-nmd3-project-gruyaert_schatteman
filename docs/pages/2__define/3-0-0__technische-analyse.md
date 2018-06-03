@@ -17,7 +17,7 @@ title: Technische Analyse
  - Locatie
  - Aanraakscherm
  - Bluetooth
- - Door te draaien aan de roterende ring, kunnen de apps bediend worden
+ - Door te draaien aan de roterende ring of te swipen, kunnen de apps bediend worden
  - magnetometer
  - Dimensies 42.9 x 44.6
  - OS: Tizen OS 3.0
